@@ -1,5 +1,4 @@
-# Atividade-01_DesenvolvimentoWeb
-# 📘 Atividade de Web (HTML)
+# 📘 Atividade de Desenvolvimento Web 1 (HTML)
 
 ## 🎯 Objetivo do Conteúdo
 O objetivo desta atividade é praticar os primeiros passos no desenvolvimento web, utilizando a **linguagem HTML** para estruturar uma página simples.
